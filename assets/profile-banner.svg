@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Jerome Madelo — software engineering and quality</title><desc id="desc">Build thoughtfully. Test thoroughly. Ship with confidence. Forge, Trace, Nexus.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern><linearGradient id="line"><stop stop-color="#ff535e"/><stop offset=".5" stop-color="#a5ff40"/><stop offset="1" stop-color="#2dcbff"/></linearGradient></defs>
+<rect width="1200" height="380" rx="20" fill="#0d1117"/><rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+<path d="M44 40H1156" stroke="#30363d"/><circle cx="52" cy="40" r="4" fill="#ff535e"/><circle cx="68" cy="40" r="4" fill="#a5ff40"/><circle cx="84" cy="40" r="4" fill="#2dcbff"/>
+<text x="48" y="88" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#8b949e">SOFTWARE ENGINEERING × QUALITY ASSURANCE</text>
+<text x="45" y="170" font-family="Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-3" fill="#f0f6fc">JEROME MADELO<tspan fill="#2dcbff">.</tspan></text>
+<text x="48" y="211" font-family="Arial,sans-serif" font-size="22" fill="#b1bac4">Build thoughtfully. Test thoroughly. Ship with confidence.</text>
+<g transform="translate(929 83) scale(.85)" fill="#2dcbff"><path d="M31 28H71L174 131V59L150 82L127 59L158 28H203V167H163L60 64V136L84 112L107 135L75 167H31Z" fill-rule="evenodd"/></g>
+<path d="M48 254H1152" stroke="url(#line)" stroke-width="2"/>
+<g font-family="Arial,sans-serif"><text x="48" y="293" font-size="15" font-weight="700" letter-spacing="2" fill="#ff535e">01 / FORGE</text><text x="48" y="320" font-size="15" fill="#8b949e">Build useful products</text>
+<text x="438" y="293" font-size="15" font-weight="700" letter-spacing="2" fill="#a5ff40">02 / TRACE</text><text x="438" y="320" font-size="15" fill="#8b949e">Make quality visible</text>
+<text x="828" y="293" font-size="15" font-weight="700" letter-spacing="2" fill="#2dcbff">03 / NEXUS</text><text x="828" y="320" font-size="15" fill="#8b949e">Connect code and confidence</text></g>
+</svg>
