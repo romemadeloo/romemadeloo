@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/rome-banner.svg" width="100%" alt="Jerome Madelo — Build thoughtfully. Test thoroughly. Ship with confidence." />
+  <img src="./assets/character-banner.svg" width="100%" alt="Jerome Madelo — Build thoughtfully. Test thoroughly. Ship with confidence." />
 </p>
 
 <p align="center">
